@@ -55,7 +55,7 @@ input,dselect, textarea {
   resize: vertical /* Allow the user to vertically resize the textarea (not horizontally) */
 }
 
-/* Style the submit button with a specific background color etc */
+/* Style the submit button with a specific background color etc NGUYEN HUNG MANH*/
 input[type=submit] {
   background-color: #4CAF50;
   color: white;
